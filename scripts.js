@@ -129,7 +129,7 @@ function display_random_image() {
         width: "256",
         height: "384"
     }, {
-        src: "https://f2.toyhou.se/file/f2-toyhou-se/images/54125256_sQYBGIKXILcHWyN.png",
+        src: "https://f2.toyhou.se/file/f2-toyhou-se/images/54125512_sQYBGIKXILcHWyN.png",
         width: "256",
         height: "384"
     }, {
